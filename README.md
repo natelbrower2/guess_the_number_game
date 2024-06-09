@@ -4,9 +4,7 @@ This is a console-based guess the number game. The game will generate a random n
 
 I wrote this program in order to learn the Java language. Making this program has helped me to become familiar with the language and what it is capable of.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=r96StdhFDmg)
 
 # Development Environment
 
